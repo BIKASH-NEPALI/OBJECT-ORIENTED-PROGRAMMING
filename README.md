@@ -1,2 +1,2 @@
-# OOps-tutorial
+# OBJECT ORIENTED PROGRAMMING
 this are practise code in c++
